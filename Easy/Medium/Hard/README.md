@@ -1,1 +1,0 @@
-Hard/README.md
